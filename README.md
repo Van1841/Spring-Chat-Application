@@ -61,10 +61,9 @@ mvn spring-boot:run
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/920408ae-6166-49b8-9c94-4cbb45f1effb" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83a12a3e-8887-43ed-b459-a2dd36d63341" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c0dd456-f558-46fc-aa38-2ea49c96a82a" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41260c73-0832-4e52-8448-80b8b5181971" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e2d8524-d0bb-4da4-abec-ef6cab34e9d4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3824ba8-c18a-4ff4-996d-74a25164e262" />
 
 -Vanshika Bhojani
 
