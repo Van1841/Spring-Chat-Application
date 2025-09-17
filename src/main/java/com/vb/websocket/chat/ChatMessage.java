@@ -1,4 +1,4 @@
-package com.alibou.websocket.chat;
+package com.vb.websocket.chat;
 
 import lombok.*;
 
