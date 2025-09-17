@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e2d8524-d0bb-4da4-abec-ef6cab34e9d4" /># 💬 Real-Time Chat Application
+# 💬 Real-Time Chat Application
 
 A *real-time chat application* built with *Spring Boot, WebSocket (STOMP protocol)*, and a responsive frontend.  
 It enables users to send and receive messages instantly with *dynamic updates* and a clean UI.
@@ -49,8 +49,12 @@ This project can be run locally for development and deployed to cloud platforms 
 git clone https://github.com/Van1841/Spring-Chat-Application.git
 cd <repo-name>
 
+```
+#### 3. mvn install and run
+```bash
 mvn clean install
 mvn spring-boot:run
+```
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/894ea7fd-914c-47e8-91fc-b6ddf1b4db84" />
@@ -60,7 +64,7 @@ mvn spring-boot:run
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83a12a3e-8887-43ed-b459-a2dd36d63341" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41260c73-0832-4e52-8448-80b8b5181971" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e2d8524-d0bb-4da4-abec-ef6cab34e9d4" />
 
 -Vanshika Bhojani
 
